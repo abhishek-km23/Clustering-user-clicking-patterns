@@ -12,13 +12,19 @@ Please first execute root so that random 500 clicks can be generated and cluster
 
 ![image](https://user-images.githubusercontent.com/44144906/211280227-9eb23b90-bc43-4c55-bdf0-52879a92042f.png)
 
+
+
 Now please click save_prediction and enter the coordinates that you need to be clustered:
 
 ![image](https://user-images.githubusercontent.com/44144906/211280633-2bf96abb-2f4b-4c6c-bb64-90d68c892858.png)
 
+
+
 Now please click on find_clusterID and enter the coordinates to  find the cluster ID of the given coordinates:
 
 ![image](https://user-images.githubusercontent.com/44144906/211281015-ea43d52c-23d9-47ae-921e-646d8c5b245d.png)
+
+
 
 And finally, please click on find_data_clusters to find all the data points and it's labelled cluster ID:
 
